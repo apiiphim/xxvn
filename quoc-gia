@@ -1,7 +1,7 @@
 [
   {
     "_id": "07nzs4892k92",
-    "name": "Châu Âu"
+    "name": "Châu Âu",
     "slug": "chau-au"
   },
   {
@@ -9,7 +9,7 @@
     "name": "Việt Nam",
     "slug": "viet-nam"
   },
-{
+  {
     "_id": "87s922z12u7g",
     "name": "Nhật Bản",
     "slug": "nhat-ban"
