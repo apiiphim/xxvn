@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "07nzs4892k92",
+    "name": "Châu Âu"
+    "slug": "chau-au"
+  },
+  {
+    "_id": "09qrtsjrxx6v",
+    "name": "Việt Nam",
+    "slug": "viet-nam"
+  },
+{
+    "_id": "87s922z12u7g",
+    "name": "Nhật Bản",
+    "slug": "nhat-ban"
+  },
+  {
+    "_id": "3x5uz7rkp60v",
+    "name": "Trung Quốc",
+    "slug": "trung-quoc"
+  },
+  {
+    "_id": "e0ce5n7emafv",
+    "name": "Hàn Quốc",
+    "slug": "han-quoc"
+  }
+]
